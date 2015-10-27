@@ -1,0 +1,17 @@
+﻿<schedule id = "016214">
+    <sortables>
+        <sortable name="NumAugmented" value="0"/>
+    </sortables>
+    <events>
+        <event>
+            <type>waypoint</type>
+            <label>LHR</label>
+            <time>2015-02-24 00:01</time>
+            <location>
+                    <longitude>-0.4614</longitude>
+                    <latitude>51.4775</latitude>
+                    <zuludelta>0.00</zuludelta>
+            </location>
+        </event>
+    </events>
+</schedule>
